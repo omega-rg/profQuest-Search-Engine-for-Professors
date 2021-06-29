@@ -3,6 +3,16 @@
 Searching for professors based on certain parameters is a problem faced by students applying for higher studies. We have devised ProfQuest, a search engine which allows users to search professors by subject of interests or specific name with filters of location and institution. A ranking algorithm encompassing factors like activeness in the recent years, growth rate of citations, institute reputation and h-index has been proposed. The user can decide the weightage given to each criteria in ranking as per personal preferences. We modify the traditional TF-IDF method to better adapt to rankings of professors based on the relevance of research papers and domain to the search query.
 
 
+## Supplementary Resources
+
+* Link to Neurips style research paper detailing our work: [Click_here](https://drive.google.com/file/d/1hWv3e3q3WTYOgk5nTLBwfepjjaenAvKt/view?usp=sharing)
+
+* Link to the slides for final project presentation: [Click_here](https://drive.google.com/file/d/11uuPkDDg4whQCT6tnlHKZgaWrYuM1BlR/view?usp=sharing)
+
+* Link to video explaining the project and showing the webapp demo:
+[Click_here](https://drive.google.com/file/d/1G97R1BnBqmIJ0DfKc2zqKCvvkX2EjMQ1/view?usp=sharing)
+
+
 ## File Structure
 ```bash
 ├── README.md
