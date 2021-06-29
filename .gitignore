@@ -1,0 +1,35 @@
+# Data
+data/**/*.html
+*oup*.jl
+
+
+data_*.jl
+
+#Zip files
+*.zip
+
+# Log files
+log*.txt
+
+# Output Files
+ou*.txt
+
+# Cache Files
+**/__pycache__
+**/.vscode
+
+# SHUB Build Files
+build
+
+# Scrapyd DBS 
+dbs
+
+# Scrapoxy Conf
+conf?.json
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+
+# Pickle Dump Files
+**/*.pkl
